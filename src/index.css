@@ -1,0 +1,69 @@
+body {
+  margin: 10px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.control > label {
+  font-size: small;
+  color: gray;
+}
+
+.nameSection {
+  font-weight: bolder;
+}
+
+.HorizontalElements {
+  display: inline-flex;
+}
+
+.VerticalElements{
+  display: block;
+}
+
+.sections {
+  width: 100%;
+  display: grid;
+}
+
+#sections > div {
+  width: 100%;
+}
+
+.control {
+  padding: 2px;
+  margin: 2px;
+  width: 100%;
+}
+.control > input {
+  width: 100%;
+}
+
+.controlSection {
+  width: 100%;
+}
+
+.nameSection > p {
+  width: 150px;
+  margin: 0px;
+  padding: 5px;
+}
+
+.sections {
+  width: 100%;
+  display: grid;
+}
+
+.control > label {
+  display: block;
+  padding: 2px;
+}
+
+/*.evenSection {
+  background-color: aquamarine;
+}
+
+.oddSection {
+  background-color: gold;
+}
+*/
